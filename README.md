@@ -1,5 +1,4 @@
-# RingUhrNetz
-First Upload 
+# RingUhrNetz 
 Diese Variante der Uhr zeigt die Uhrzeit auf einem Ring mit 12 LED mit wS2812-RGB-LED an. 
 Die Einzelminuten werden mit einer 13. RGB.LED durch Farbwechsel (R, G, B, W, Aus) angezeigt, da auf dem 12er Ring
 nur 5-Minuten-Sprünge möglich sind
